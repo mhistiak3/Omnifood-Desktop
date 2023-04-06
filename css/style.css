@@ -8,6 +8,7 @@
   height: 9.6rem;
   background-color: var(--primary-lighter);
   padding: 0 4.8rem;
+  overflow-x: hidden;
 }
 .logo {
   height: 2.2rem;
@@ -62,6 +63,7 @@
   padding-bottom:0 ;
   height: 8rem;
   box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
+  
 }
 
 /* 

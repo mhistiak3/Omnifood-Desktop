@@ -93,6 +93,7 @@ body {
   font-weight: 400;
   overflow-x: hidden;
   color: var(--gray);
+  position: relative;
 }
 
 /* 
