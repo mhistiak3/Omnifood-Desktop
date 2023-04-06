@@ -1,0 +1,20 @@
+{
+  "todohighlight.defaultStyle": {
+    "color": "#EEF4FB",
+    "backgroundColor": "#321E3D",
+    "overviewRulerColor": "#ffab00",
+    "cursor": "pointer",
+    // "border": "1px solid #eee",
+    "borderRadius": "2px",
+    "isWholeLine": true
+  },
+  "todohighlight.keywords": [
+
+    {
+      "text": "STYLE:",
+      "color": "#fff",
+      "backgroundColor": "#130f40",
+      "overviewRulerColor": "grey"
+    }
+  ]
+}
